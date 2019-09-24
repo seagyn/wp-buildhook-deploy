@@ -1,0 +1,11 @@
+{
+    "name": "seagyn/wp-buildhook-deploy",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Seagyn Davis",
+            "email": "hello@querywp.com"
+        }
+    ],
+    "require": {}
+}
